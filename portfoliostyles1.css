@@ -1,0 +1,93 @@
+h1 {color:;}
+
+
+
+
+
+h2 {
+color: #000000;
+font-family: Garamond, "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-style: italic;
+font-size: 72px;
+color: white;
+text-align: left;
+margin-left: 145px;
+font-weight: normal;
+margin-top: 20px;
+}
+
+p {
+    color: white;
+    font-family: Garamond, "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+   /* font-weight: normal;
+    font-size: 24px;*/
+    margin-left: 430px;
+    text-decoration: none;
+
+}
+
+}
+.homepage {margin-left: 500px;
+margin-top: 400px;
+color:white;
+font-family: Garamond, "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-weight: normal;
+font-size: 13px;}
+
+#background {
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    left: 0px; 
+    right: 0px;
+    top: 0px; 
+    z-index: -999; /* Ensure div tag stays behind content; -999 might work, too. */
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+}
+
+
+/*article {margin-left: 200px;}
+a {color: white;
+    font-family: Garamond, "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    font-weight: normal;
+    font-size: 24px;
+    margin-left: 430px;
+    text-decoration: none;
+    font-style: italic;
+}*/
+
+h3 {
+color: #000000;
+font-family: "Rockwell", "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+text-align: center;
+font-weight: bolder;
+font-size: 64px;
+margin-top: 4px;
+}
+
+div.container {
+	float: center
+    width: 90%;
+    border: 1px solid gray;
+
+}
+
+
+a.ex2:hover, a.ex2:active {font-size: 180%;
+
+    color: white;
+    font-family: Garamond, "Baskerville", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    text-decoration: none;
+font-style: italic;
+font-weight: normal;}
+a {color:white;
+text-decoration: none;
+font-size: 20px;
+margin-left: 200px;
+font-style: italic;
+font-weight: normal;}
+
